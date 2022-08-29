@@ -1,0 +1,63 @@
+@use 'abstracts';
+@use 'base';
+@use 'utilities';
+@use 'components';
+
+html {
+    --bg: hsl(0, 0%, 98%);
+    --fy-spec-background-general: #f9f9f9;
+    --fy-spec-background-solid: #fff;
+    --fy-spec-background-primary: hsl(0, 0%, 100%);
+    --fy-spec-background-side: hsl(0, 0%, 100%);
+    --fy-spec-background-inverse: #212121fa;
+    --fy-spec-background-hover-primary: #dfdfdf;
+    --fy-spec-background-hover-secondary: rgb(228, 230, 235);
+    --fy-spec-background-skeleton: #f5f5f5;
+    --fy-spec-background-card: hsl(227, 47%, 96%);
+    --fy-spec-background-tag: hsl(0, 0%, 0%);
+    --fy-spec-background-chip: rgb(213 203 203 / 5%);
+    --fy-spec-background-chip-border: rgba(0, 0, 0, 0.1);
+    --fy-spec-text-color: #212121;
+    --fy-spec-button-background-primary: #E4E6EB;
+    --fy-spec-shadow-neomorphism: 3px 3px 4px #9d9d9d, -3px -3px 4px #ffffff;
+    --fy-spec-gradient-neomorphism: linear-gradient(145deg, #dde1e7, #ffffff);
+    --text-1:  hsl(228, 12%, 44%);
+    --text-2: hsl(230, 17%, 14%);
+    --fy-spec-text-color-desc: #141414;
+    --atr: black;
+    --atr-a: hsl(228, 45%, 44%); 
+    --active: hsl(232, 33%, 91%);
+    
+    background: var(--fy-spec-background-general);
+    color: var(--text-2);
+}
+
+html[data-theme="dark"] {
+    --bg: hsl(0, 0%, 9%);
+    --fy-spec-background-general: #181818;
+    --fy-spec-background-solid: #212121fa;
+    --fy-spec-background-primary: hsla(0, 0%, 13%, 0.98);
+    --fy-spec-background-side: hsl(0, 0%, 16%);
+    --fy-spec-background-inverse: #fff;
+    --fy-spec-background-hover-primary: rgba(255, 255, 255, 0.2);
+    --fy-spec-background-hover-secondary: #262626;
+    --fy-spec-background-skeleton: #444;
+    --fy-spec-background-card: hsl(228, 28%, 20%);
+    --fy-spec-background-tag: hsl(228, 28%, 20%);
+    --fy-spec-background-drop-icon: rgb(201, 201, 201);
+    --fy-spec-background-chip: rgba(255, 255, 255, 0.1);
+    --fy-spec-background-chip-border: rgba(255, 255, 255, 0.1);
+    --fy-spec-button-background-primary: rgba(255,255,255,.1);
+    --fy-spec-shadow-neomorphism: 3px 3px 4px #0f0f0f, -3px -3px 4px #252525;
+    --fy-spec-gradient-neomorphism: linear-gradient(145deg,#161616, #1a1a1a);
+    --fy-spec-text-color: #fff;
+    --text-1:hsl(228, 34%, 66%);
+    --text-2: hsl(0, 0%, 100%);
+    --fy-spec-text-color-desc: #d3d3d3;
+    --atr: hsla(0, 0%, 100%, 0.479);
+    --atr-a: hsl(0, 0%, 100%);
+    --active: hsl(228, 26%, 27%);
+    
+    background: var(--fy-spec-background-general);
+    color: var(--text-2);
+}

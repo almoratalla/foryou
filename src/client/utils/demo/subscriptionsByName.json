@@ -1,0 +1,734 @@
+{
+    "subscriptions": [
+        {
+            "kind": "youtube#subscription",
+            "etag": "rWEaNQkQCabC1pO1kf2cQE4REHM",
+            "id": "5CPLbwgqFn5pr1fJtqGLD94LGqHLB3OpJCTVN_UrQFw",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:29:53.528162Z",
+                "title": "Google",
+                "description": "Experience the world of Google on our official YouTube channel. Watch videos about our products,  technology, company happenings and more. Subscribe to get updates from all your favorite Google products and teams.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA"
+                },
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu8MVe0jHIPqgFzsalBgIeO5ev_0tTjEbc_2lv4Vh4o=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu8MVe0jHIPqgFzsalBgIeO5ev_0tTjEbc_2lv4Vh4o=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu8MVe0jHIPqgFzsalBgIeO5ev_0tTjEbc_2lv4Vh4o=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            },
+            "contentDetails": {
+                "totalItemCount": 2634,
+                "newItemCount": 1,
+                "activityType": "all"
+            },
+            "subscriberSnippet": {
+                "title": "ForYou Demo",
+                "description": "",
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": ""
+                    },
+                    "medium": {
+                        "url": ""
+                    },
+                    "high": {
+                        "url": ""
+                    }
+                }
+            },
+            "channel": {
+                "kind": "youtube#channel",
+                "etag": "FFO8ojzjkBQGSQBWlD15bZNLB2A",
+                "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
+                "snippet": {
+                    "title": "Google",
+                    "description": "Experience the world of Google on our official YouTube channel. Watch videos about our products,  technology, company happenings and more. Subscribe to get updates from all your favorite Google products and teams.",
+                    "customUrl": "google",
+                    "publishedAt": "2005-09-18T22:37:10Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu8MVe0jHIPqgFzsalBgIeO5ev_0tTjEbc_2lv4Vh4o=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu8MVe0jHIPqgFzsalBgIeO5ev_0tTjEbc_2lv4Vh4o=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu8MVe0jHIPqgFzsalBgIeO5ev_0tTjEbc_2lv4Vh4o=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Google",
+                        "description": "Experience the world of Google on our official YouTube channel. Watch videos about our products,  technology, company happenings and more. Subscribe to get updates from all your favorite Google products and teams."
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUK8sQmJBp8GCxrOtXWBpyEA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "3304382640",
+                    "subscriberCount": "10600000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2634"
+                },
+                "topicDetails": {
+                    "topicIds": [
+                        "/m/01k8wb",
+                        "/m/019_rr"
+                    ],
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge",
+                        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                    ]
+                },
+                "status": {
+                    "privacyStatus": "public",
+                    "isLinked": true,
+                    "longUploadsStatus": "longUploadsUnspecified",
+                    "madeForKids": false
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "Google",
+                        "description": "Experience the world of Google on our official YouTube channel. Watch videos about our products,  technology, company happenings and more. Subscribe to get updates from all your favorite Google products and teams.",
+                        "keywords": "Google Technology Science Android \"Google app\" \"Google drive\" Gmail \"Google Maps\" Nexus \"Google Doodles\" \"Google Zeitgeist\"",
+                        "trackingAnalyticsAccountId": "UA-7001471-1",
+                        "unsubscribedTrailer": "KKfAuQrwzTY"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.ggpht.com/XLCwM7NWmKhf3IhWVbb3cOtaUdtC9aum2R-8ZB_z0Fri6JHVU3czNsdLAtha8PO_VfmmXxCPLQ"
+                    }
+                },
+                "contentOwnerDetails": {}
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "rIp-emiUD1IFQOzkkL5eSzti3zY",
+            "id": "5CPLbwgqFn5pr1fJtqGLD39Uz6SJL9ZVn86mozgQpwA",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:27:19.455548Z",
+                "title": "Google Chrome",
+                "description": "The official YouTube channel for the Chrome browser, OS, Web Store, and Chromebooks.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCL8ZULXASCc1I_oaOT0NaOQ"
+                },
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/7Qy-xiYrM2DHUEVFTBkok5ei6n_qEnH9XRwBECZnsl_E02VxrLDYcU7svibdYL1YYs9sZKe6KA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/7Qy-xiYrM2DHUEVFTBkok5ei6n_qEnH9XRwBECZnsl_E02VxrLDYcU7svibdYL1YYs9sZKe6KA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/7Qy-xiYrM2DHUEVFTBkok5ei6n_qEnH9XRwBECZnsl_E02VxrLDYcU7svibdYL1YYs9sZKe6KA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            },
+            "contentDetails": {
+                "totalItemCount": 478,
+                "newItemCount": 0,
+                "activityType": "all"
+            },
+            "subscriberSnippet": {
+                "title": "ForYou Demo",
+                "description": "",
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": ""
+                    },
+                    "medium": {
+                        "url": ""
+                    },
+                    "high": {
+                        "url": ""
+                    }
+                }
+            },
+            "channel": {
+                "kind": "youtube#channel",
+                "etag": "IFqBieA98LrBG_zaKubqLz2LKCo",
+                "id": "UCL8ZULXASCc1I_oaOT0NaOQ",
+                "snippet": {
+                    "title": "Google Chrome",
+                    "description": "The official YouTube channel for the Chrome browser, OS, Web Store, and Chromebooks.",
+                    "customUrl": "chrome",
+                    "publishedAt": "2008-09-01T22:12:13Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/7Qy-xiYrM2DHUEVFTBkok5ei6n_qEnH9XRwBECZnsl_E02VxrLDYcU7svibdYL1YYs9sZKe6KA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/7Qy-xiYrM2DHUEVFTBkok5ei6n_qEnH9XRwBECZnsl_E02VxrLDYcU7svibdYL1YYs9sZKe6KA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/7Qy-xiYrM2DHUEVFTBkok5ei6n_qEnH9XRwBECZnsl_E02VxrLDYcU7svibdYL1YYs9sZKe6KA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Google Chrome",
+                        "description": "The official YouTube channel for the Chrome browser, OS, Web Store, and Chromebooks."
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUL8ZULXASCc1I_oaOT0NaOQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "427659317",
+                    "subscriberCount": "1990000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "478"
+                },
+                "topicDetails": {
+                    "topicIds": [
+                        "/m/01k8wb",
+                        "/m/07c1v",
+                        "/m/019_rr"
+                    ],
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge",
+                        "https://en.wikipedia.org/wiki/Technology",
+                        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                    ]
+                },
+                "status": {
+                    "privacyStatus": "public",
+                    "isLinked": true,
+                    "longUploadsStatus": "longUploadsUnspecified"
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "Google Chrome",
+                        "description": "The official YouTube channel for the Chrome browser, OS, Web Store, and Chromebooks.",
+                        "keywords": "Google \"Google Chrome\" \"Chrome Web Store\" \"Chrome OS\" Chrome ChromeOS Chromebook Chromebooks \"web apps\" web \"web is what you make of it\" \"web store\" \"chrome extension\" \"chrome theme\" \"chrome experiments\" browser \"internet browser\" \"web browser\" internet \"chrome fast\" \"lady gaga chrome\" \"bieber chrome\" omnibox \"incognito mode\" \"chrome app\" cr-48 \"samsung series 5\" tabs \"multi-process architecture\" DART HTML5 WebGL",
+                        "trackingAnalyticsAccountId": "UA-26908291-1",
+                        "unsubscribedTrailer": "SlGuvC5nnTA",
+                        "country": "US"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.ggpht.com/jaoXFro-NhL8d858lS5cj0yEhQ5ZKGvfkNW5hxF3TU16XVirjFGhEhu4On9oMU2C2A8h1Hek7CA"
+                    }
+                },
+                "contentOwnerDetails": {}
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "YxbdrxNkKIHzJkO7eZrtQo9PKPM",
+            "id": "5CPLbwgqFn5pr1fJtqGLDwbO0t5fUjnDAA9XZ1HYpsU",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:29:57.889892Z",
+                "title": "Google Chrome Developers",
+                "description": "Making the web more awesome.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCnUYZLuoy1rq1aVMwx4aTzw"
+                },
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu9rHvFMUGeTnvaK5zF50i0SgbguJgQuu45UowelDA=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu9rHvFMUGeTnvaK5zF50i0SgbguJgQuu45UowelDA=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu9rHvFMUGeTnvaK5zF50i0SgbguJgQuu45UowelDA=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            },
+            "contentDetails": {
+                "totalItemCount": 1399,
+                "newItemCount": 0,
+                "activityType": "all"
+            },
+            "subscriberSnippet": {
+                "title": "ForYou Demo",
+                "description": "",
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": ""
+                    },
+                    "medium": {
+                        "url": ""
+                    },
+                    "high": {
+                        "url": ""
+                    }
+                }
+            },
+            "channel": {
+                "kind": "youtube#channel",
+                "etag": "3xlb1G-UYTkGye4jtLdLFL-LWXE",
+                "id": "UCnUYZLuoy1rq1aVMwx4aTzw",
+                "snippet": {
+                    "title": "Google Chrome Developers",
+                    "description": "Making the web more awesome.",
+                    "customUrl": "@googlechromedevelopers",
+                    "publishedAt": "2012-04-24T00:05:52Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu9rHvFMUGeTnvaK5zF50i0SgbguJgQuu45UowelDA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu9rHvFMUGeTnvaK5zF50i0SgbguJgQuu45UowelDA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu9rHvFMUGeTnvaK5zF50i0SgbguJgQuu45UowelDA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Google Chrome Developers",
+                        "description": "Making the web more awesome."
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUnUYZLuoy1rq1aVMwx4aTzw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "55383273",
+                    "subscriberCount": "665000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1399"
+                },
+                "topicDetails": {
+                    "topicIds": [
+                        "/m/01k8wb",
+                        "/m/07c1v",
+                        "/m/019_rr"
+                    ],
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge",
+                        "https://en.wikipedia.org/wiki/Technology",
+                        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                    ]
+                },
+                "status": {
+                    "privacyStatus": "public",
+                    "isLinked": true,
+                    "longUploadsStatus": "longUploadsUnspecified",
+                    "madeForKids": false
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "Google Chrome Developers",
+                        "description": "Making the web more awesome.",
+                        "keywords": "Google Chrome Developers Web CSS Framweorks",
+                        "trackingAnalyticsAccountId": "UA-41980257-2",
+                        "unsubscribedTrailer": "lVLzkleL_CE"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.ggpht.com/qUETHwPFK681oaplR0N_vfjEKcKSH30lfE_urm47e9469SXPu_vD3_Q_62Wnr-DEaycyRzFS-Q"
+                    }
+                },
+                "contentOwnerDetails": {}
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "R8lrdykbxDW8Zldb5bacXvzGB-s",
+            "id": "5CPLbwgqFn5pr1fJtqGLD6ke4sEYMm_vvIWj2BljqtY",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:30:14.160478Z",
+                "title": "Google Cloud Tech",
+                "description": "Welcome to the official YouTube channel for Google Cloud’s technical community. Explore our how-to videos, see exciting demos, stay up to date with product news, and find new developer tools helping you build what’s next.",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg"
+                },
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            },
+            "contentDetails": {
+                "totalItemCount": 3892,
+                "newItemCount": 1,
+                "activityType": "all"
+            },
+            "subscriberSnippet": {
+                "title": "ForYou Demo",
+                "description": "",
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": ""
+                    },
+                    "medium": {
+                        "url": ""
+                    },
+                    "high": {
+                        "url": ""
+                    }
+                }
+            },
+            "channel": {
+                "kind": "youtube#channel",
+                "etag": "Z4FuoV1-ItzMEZM7juTda9QNLGw",
+                "id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+                "snippet": {
+                    "title": "Google Cloud Tech",
+                    "description": "Welcome to the official YouTube channel for Google Cloud’s technical community. Explore our how-to videos, see exciting demos, stay up to date with product news, and find new developer tools helping you build what’s next.\n",
+                    "publishedAt": "2014-07-21T21:05:55Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/NRPa1hVVZRkqv8R5z3B1nkXBZf7BmCf_cRHt889l8fcShho-s_kZzhdhyzyeo1Jgk8lJ4MHT=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Google Cloud Tech",
+                        "description": "Welcome to the official YouTube channel for Google Cloud’s technical community. Explore our how-to videos, see exciting demos, stay up to date with product news, and find new developer tools helping you build what’s next.\n"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUJS9pqu9BzkAMNTmzNMNhvg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "60202397",
+                    "subscriberCount": "883000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "3892"
+                },
+                "topicDetails": {
+                    "topicIds": [
+                        "/m/01k8wb",
+                        "/m/07c1v",
+                        "/m/019_rr"
+                    ],
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge",
+                        "https://en.wikipedia.org/wiki/Technology",
+                        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                    ]
+                },
+                "status": {
+                    "privacyStatus": "public",
+                    "isLinked": true,
+                    "longUploadsStatus": "longUploadsUnspecified",
+                    "madeForKids": false
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "Google Cloud Tech",
+                        "description": "Welcome to the official YouTube channel for Google Cloud’s technical community. Explore our how-to videos, see exciting demos, stay up to date with product news, and find new developer tools helping you build what’s next.\n",
+                        "keywords": "Cloud Platform Infrastructure VMs IaaS PaaS",
+                        "unsubscribedTrailer": "0xzyrtzEs50",
+                        "country": "US"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.ggpht.com/tntIuCNVhGishe9ZfF_DejQ04nr0BdeU4CPWJMFUSS72KOhZZcJs2s6SvowkXKvaYd3-oaVU5w"
+                    }
+                },
+                "contentOwnerDetails": {}
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "MXwNB9zAWc5KGj5UNas514T_krA",
+            "id": "5CPLbwgqFn5pr1fJtqGLD7cA_ct7lAOASmrz_R90E7o",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:27:26.972495Z",
+                "title": "Google Developers",
+                "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers → https://goo.gle/developers",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+                },
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu-oDvWEJ-WfN9bgxQB2YAlnjC2uqN_c7JQZvX9Ikfg=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu-oDvWEJ-WfN9bgxQB2YAlnjC2uqN_c7JQZvX9Ikfg=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu-oDvWEJ-WfN9bgxQB2YAlnjC2uqN_c7JQZvX9Ikfg=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            },
+            "contentDetails": {
+                "totalItemCount": 5606,
+                "newItemCount": 1,
+                "activityType": "all"
+            },
+            "subscriberSnippet": {
+                "title": "ForYou Demo",
+                "description": "",
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": ""
+                    },
+                    "medium": {
+                        "url": ""
+                    },
+                    "high": {
+                        "url": ""
+                    }
+                }
+            },
+            "channel": {
+                "kind": "youtube#channel",
+                "etag": "I0r3ezXpW_BddZHdu_gNGRnTp0I",
+                "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+                "snippet": {
+                    "title": "Google Developers",
+                    "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers → https://goo.gle/developers\n",
+                    "customUrl": "googledevelopers",
+                    "publishedAt": "2007-08-23T00:34:43Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu-oDvWEJ-WfN9bgxQB2YAlnjC2uqN_c7JQZvX9Ikfg=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu-oDvWEJ-WfN9bgxQB2YAlnjC2uqN_c7JQZvX9Ikfg=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AMLnZu-oDvWEJ-WfN9bgxQB2YAlnjC2uqN_c7JQZvX9Ikfg=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Google Developers",
+                        "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers → https://goo.gle/developers\n"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "207585276",
+                    "subscriberCount": "2250000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "5606"
+                },
+                "topicDetails": {
+                    "topicIds": [
+                        "/m/01k8wb",
+                        "/m/07c1v",
+                        "/m/019_rr"
+                    ],
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Knowledge",
+                        "https://en.wikipedia.org/wiki/Technology",
+                        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                    ]
+                },
+                "status": {
+                    "privacyStatus": "public",
+                    "isLinked": true,
+                    "longUploadsStatus": "longUploadsUnspecified",
+                    "madeForKids": false
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "Google Developers",
+                        "description": "The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms.\n\nSubscribe to Google Developers → https://goo.gle/developers\n",
+                        "keywords": "\"google developers\" developers \"Google developers videos\" \"google developer tutorials\" \"developer tutorials\" \"developer news\" android firebase tensorflow chrome web flutter \"google developer experts\" \"google launchpad\" \"developer updates\" google \"google design\"",
+                        "trackingAnalyticsAccountId": "YT-9170156-1",
+                        "unsubscribedTrailer": "uma702Hm4R0",
+                        "country": "US"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.ggpht.com/Ez9YslonqBGaplJqb-07cjd7hrrBr3LS2gV35g_MVuK-aFnTb2u8XDjwH6uefY1VWp7JNqQ3MAM"
+                    }
+                },
+                "contentOwnerDetails": {}
+            }
+        },
+        {
+            "kind": "youtube#subscription",
+            "etag": "FZsaFLcrlW5ECsDjCcPkJJmBZwY",
+            "id": "5CPLbwgqFn5pr1fJtqGLD8bf2KG8gvwaSO4QFMigCIk",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:27:04.092136Z",
+                "title": "YouTube",
+                "description": "YouTube's Official Channel helps you discover what's new & trending globally. Watch must-see videos, from music to culture to Internet phenomena",
+                "resourceId": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+                },
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s88-c-k-c0x00ffffff-no-rj"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s240-c-k-c0x00ffffff-no-rj"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s800-c-k-c0x00ffffff-no-rj"
+                    }
+                }
+            },
+            "contentDetails": {
+                "totalItemCount": 542,
+                "newItemCount": 0,
+                "activityType": "all"
+            },
+            "subscriberSnippet": {
+                "title": "ForYou Demo",
+                "description": "",
+                "channelId": "foryou-demo-id",
+                "thumbnails": {
+                    "default": {
+                        "url": ""
+                    },
+                    "medium": {
+                        "url": ""
+                    },
+                    "high": {
+                        "url": ""
+                    }
+                }
+            },
+            "channel": {
+                "kind": "youtube#channel",
+                "etag": "HMkeksmEAYhXuuYuIZitcQvuGFw",
+                "id": "UCBR8-60-B28hp2BmDPdntcQ",
+                "snippet": {
+                    "title": "YouTube",
+                    "description": "YouTube's Official Channel helps you discover what's new & trending globally. Watch must-see videos, from music to culture to Internet phenomena",
+                    "customUrl": "youtube",
+                    "publishedAt": "1970-01-01T00:00:00Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "YouTube",
+                        "description": "YouTube's Official Channel helps you discover what's new & trending globally. Watch must-see videos, from music to culture to Internet phenomena"
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUBR8-60-B28hp2BmDPdntcQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "2757387120",
+                    "subscriberCount": "33400000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "542"
+                },
+                "topicDetails": {
+                    "topicIds": [
+                        "/m/019_rr"
+                    ],
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                    ]
+                },
+                "status": {
+                    "privacyStatus": "public",
+                    "isLinked": true,
+                    "longUploadsStatus": "longUploadsUnspecified"
+                },
+                "brandingSettings": {
+                    "channel": {
+                        "title": "YouTube",
+                        "description": "YouTube's Official Channel helps you discover what's new & trending globally. Watch must-see videos, from music to culture to Internet phenomena",
+                        "keywords": "youtube official channel",
+                        "trackingAnalyticsAccountId": "UA-41010131-1",
+                        "unsubscribedTrailer": "iiMpdwr5-Qo",
+                        "country": "US"
+                    },
+                    "image": {
+                        "bannerExternalUrl": "https://yt3.ggpht.com/gTtGWCTqRKWYDstpT-FILDCz9rijUKtowV2xB8k79MUv88wHL8ChLpRTEZh8yQGkCzmiuNrU"
+                    }
+                },
+                "contentOwnerDetails": {}
+            }
+        }
+    ]
+}

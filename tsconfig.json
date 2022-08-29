@@ -1,0 +1,38 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "CommonJS",
+        "sourceMap": true,
+        "allowJs": false,
+        "outDir": "./dist",
+        "baseUrl": ".",
+        "removeComments": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedIndexedAccess": true,
+        "moduleResolution": "node",
+        "typeRoots": ["./node_modules/@types","./src/**/utils/@types"],
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "isolatedModules": true,
+        "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        "jsx": "react-jsx",
+        "paths": {
+            "@/*": ["./src/client/*"],
+            "@components/*": ["./src/client/components/*"],
+            "@client/*": ["./src/client/*"],
+            "@resources/*": ["./src/resources/*"],
+            "@server/*": ["./src/server/*"],
+            "@utils/*": ["./src/utils/*"],
+            "@api/*": ["./src/server/api/*"],
+        },
+        "plugins": [{ "name": "typescript-plugin-css-modules" }]
+    },
+    "include": ["./src/**/**/*", "./tests/unit/**/*", "config/jest.config.ts"],
+    "exclude": ["./dist", "node_modules", "./src/resources"]
+}

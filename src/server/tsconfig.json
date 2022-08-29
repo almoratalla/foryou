@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "commonjs",
+      "sourceMap": true,   
+      "outDir": "../../dist/server",
+      "pretty": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "typeRoots": [
+        "./utils/@types"
+      ],  
+      "lib": ["es2019"],    
+      "skipLibCheck": true,                     
+      "forceConsistentCasingInFileNames": true, 
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "paths": {
+        "@server/*": ["./*"],
+        "@utils/*": ["./utils/*"],
+        "@api/*": ["./api/*"]
+      }
+    },
+    "exclude": [
+      "node_modules",
+      "public/*"
+    ],
+    "include": ["./**/*"]
+}

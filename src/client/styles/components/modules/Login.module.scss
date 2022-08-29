@@ -1,0 +1,204 @@
+
+header.login__header {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    padding: 2rem 5rem;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    
+    div.header__theme {
+        span {
+            color: var(--text-1);
+            font-weight: 600;
+        }
+    
+        input[type=checkbox]{
+            height: 0;
+            width: 0;
+            visibility: hidden;
+            outline: none;
+        }
+        
+        label.toggle__label {
+            cursor: pointer;
+            text-indent: -9999px;
+            width: 52px;
+            height: 27px;
+            background: hsl(0, 91%, 45%);
+            float: right;
+            border-radius: 100px;
+            position: relative;
+            outline: none;
+        }
+        
+        label:after {
+            content: '';
+            position: absolute;
+            top: 3px;
+            right: 3px;
+            width: 20px;
+            height: 20px;
+            background: hsl(0, 0%, 100%);
+            border-radius: 90px;
+            transition: 0.3s;
+            outline:none;
+        }
+        
+        input:checked + label {
+            background: #ccc;
+            outline:none;
+        }
+        
+        input:checked + label:after {
+            right: calc(100% - 3px);
+            transform: translateX(100%);
+            background: hsl(230, 17%, 14%);
+            outline:none;
+        }
+        
+        label:active:after {
+            width: 45px;
+            outline:none;
+        }
+    }
+}
+
+
+.fy-login-container {
+    width: calc(100% - 73px);
+
+    @media screen and (max-width: 48em) {
+        width: 100%;
+    }
+
+    .fy-login__section {
+        padding: 3.5rem 0;
+        max-width: 1128px;
+        margin: auto;
+        min-height: calc(100vh - 56px);
+        width: 80%;
+
+        main.login__main {
+            height: 100%;
+            display: flex;
+            flex-flow: column nowrap;
+            justify-content: center;
+            align-items: center;
+            margin: 5.5rem auto;
+    
+            > svg {
+                width: 90px;
+                height: 90px;
+                transform: scale(3);
+                text {
+                    fill: var(--fy-spec-background-inverse);
+                }
+    
+                tspan {
+                    fill: var(--fy-spec-background-inverse);
+                }
+            }
+        
+            h1 {
+                font-size: 2.4375rem;
+                font-weight: 700;
+                color: var(--text-2);
+            }
+            
+            h3 {
+                margin: 0.5rem 0;
+                font-size: 1.5rem;
+                color: var(--text-1);
+            }
+
+            .fy-promo-container {
+                display: flex;
+                flex-flow: column nowrap;
+                margin: 2rem 0;
+                align-items: center;
+                
+                span {
+                    font-size: 0.875rem;
+                    margin: 1rem 0 1rem;
+                }
+            
+                .fy-promo-hero {
+                    display: flex;
+                    flex-flow: row nowrap;
+
+                    hr {
+                        margin: 0 1rem;
+                        width: 0; 
+                        height: auto;
+                    }
+
+                    @media screen and (max-width: 30em) {
+                        flex-flow: column nowrap;
+
+                        hr {
+                            margin: 1rem 0;
+                            width: auto; 
+                            height: 0;
+                        }
+                    }
+                    &--sign {
+                        background: red;
+                        display: flex;
+                        border:none;
+                        border-radius: 0.5rem;
+                        height: 3rem;
+                        flex-flow: row nowrap;
+                        padding: 1.3rem;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin: 0.5rem 0px 1rem;
+                        cursor:pointer;
+                        text-decoration: none;
+                        // width: 50%;
+                
+                        svg {
+                            transform: scale(0.5);
+                            fill: white;
+                            margin-left: -0.5rem;
+            
+                            * {
+                                fill: white;
+                                stroke: white;
+                            }
+                        }
+                
+                        span {
+                            text-transform: uppercase;
+                            color: white;
+                            font-weight: 400;
+                            font-size: 0.875rem;
+                            letter-spacing: 2px;
+                        }
+
+                    }
+
+                    &--demo {
+                        background: none;
+                        display: flex;
+                        border: 2px solid red;
+                        border-radius: 0.5rem;
+                        height: 3rem;
+                        flex-flow: row nowrap;
+                        padding: 1.3rem;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin: 0.5rem 0px 1rem;
+                        cursor:pointer;
+                        text-decoration: none;
+
+                        span {
+                            font-weight: 600;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+}

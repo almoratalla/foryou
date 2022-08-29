@@ -1,0 +1,17 @@
+{
+    "name": "foryoutube",
+    "description": "A youtube data api web app to visualize personal youtube data",
+    "keywords": [
+      "youtube",
+      "concept",
+      "api",
+      "poc", 
+      "personal", 
+      "react", 
+      "nodejs", 
+      "mern", 
+      "typescript", 
+      "foryou"
+    ],
+    "stack": "heroku-22"
+  }

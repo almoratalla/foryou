@@ -1,0 +1,82 @@
+$ns: "fy-explore";
+
+.#{$ns}-container {
+    width: calc(100% - 73px);
+
+    .#{$ns}__section {
+        padding: 3.5rem 0;
+        max-width: 1128px;
+        margin: auto;
+        min-height: calc(100vh - 56px);
+        width: 80%;
+        
+        &-shelf {
+            display: flex;
+            flex-flow: column nowrap;
+
+            a.#{$ns}__section-shelf-title {
+                text-decoration: none;
+                display: flex;
+                align-items: center;
+                align-self: flex-start;
+
+                h2 {
+                    display: flex;
+                    flex-flow: row nowrap;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 0 0.5rem;
+
+                    svg {
+                        height: 1.5rem;
+                        fill: rgb(179, 17, 17);
+
+                        circle, path {
+                            stroke: rgb(179, 17, 17);
+                        }
+                    }
+                    span {
+                        line-height: 2.5rem;
+                        font-weight: 400;
+                        font-size: 1.5rem;
+                        margin: 0 0.5rem;
+                    }
+                }
+
+            }
+            
+            main {
+                display: grid;
+                grid-template-columns: repeat(5, 1fr);
+                padding: 1rem 0;
+                row-gap: 1rem;
+
+                @media screen and (max-width: 48em) {
+                    grid-template-columns: repeat(4, 1fr);
+                }
+
+                @media screen and (max-width: 44em) {
+                    grid-template-columns: repeat(3, 1fr);
+                }
+
+                @media screen and (max-width: 33em) {
+                    grid-template-columns: repeat(2, 1fr);
+                }
+
+                @media screen and (max-width: 30em) {
+                    grid-template-columns: repeat(1, 1fr);
+                }
+
+                @media screen and (max-width: 25em) {
+                    grid-template-columns: repeat(1, 1fr);
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 48em) {
+    .#{$ns}-container {
+        width: 100%;
+    }
+}

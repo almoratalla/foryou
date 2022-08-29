@@ -1,0 +1,56 @@
+@mixin fy-sub-filter {
+    border-radius: 16px;
+    outline: none;
+    min-height: 32px;
+    display: inline-flex;
+    font-size: 0.8rem;
+    padding: 6px 16px;
+    cursor: pointer;
+    border: 1px solid var(--fy-spec-background-chip-border);
+}
+
+div.fy-subs-filters-container {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 0.3rem;
+    row-gap: 0.5rem;
+    justify-content: flex-start;
+    padding: 16px 0;
+    border-top: 1px solid var(--fy-spec-background-chip);
+    border-bottom: 1px solid var(--fy-spec-background-chip);
+
+    button.fy-subs-filter {
+        @include fy-sub-filter();
+        background-color: var(--fy-spec-background-chip);
+        span {
+            color: var(--text-2);
+        }
+
+        &--active {
+            @include fy-sub-filter();
+            background-color: var(--fy-spec-background-inverse);
+            span {
+                color: var(--fy-spec-background-general);
+            }
+        }
+    }
+}
+
+.on-node-enter {
+    // transform: scale(0);
+    opacity: 0;
+}
+.on-node-enter-active {
+    // transform: scale(1);
+    opacity: 1;
+    transition: opacity 5s;
+}
+.on-node-exit {
+    // transform: scale(1);
+    opacity: 1;
+}
+.on-node-exit-active {
+    // transform: scale(0);
+    opacity: 0;
+    transition: opacity 5s;
+}

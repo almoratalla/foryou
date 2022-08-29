@@ -1,0 +1,11 @@
+.layout-container {
+    .context-container {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 45em) {
+    .context-container {
+        flex-direction: column-reverse;
+    }
+}

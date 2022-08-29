@@ -1,0 +1,114 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "eJwC2gT0IX2AgKTj8ARdjZwcKZE",
+    "pageInfo": {
+        "totalResults": 2,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "playlist-demo-etag-1",
+            "id": "playlist-demo-id-1",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:55:16Z",
+                "channelId": "playlist-demo-channelid-1",
+                "title": "Chrome Essentials",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hQuXxOBJwSg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hQuXxOBJwSg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hQuXxOBJwSg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hQuXxOBJwSg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hQuXxOBJwSg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ForYou Demo",
+                "localized": {
+                    "title": "Chrome Essentials",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "private"
+            },
+            "contentDetails": {
+                "itemCount": 9
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=sample-id\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "playlist-demo-etag-2",
+            "id": "playlist-demo-id-2",
+            "snippet": {
+                "publishedAt": "2022-08-18T18:49:41Z",
+                "channelId": "playlist-demo-channelid-2",
+                "title": "rewinds",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2lAe1cqCOXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2lAe1cqCOXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2lAe1cqCOXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2lAe1cqCOXo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2lAe1cqCOXo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ForYou Demo",
+                "localized": {
+                    "title": "rewinds",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "private"
+            },
+            "contentDetails": {
+                "itemCount": 8
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=sample-id\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+            }
+        }
+    ]
+}

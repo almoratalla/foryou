@@ -1,0 +1,148 @@
+{
+    "id": "fy-demo-acc-1",
+    "title": "ForYou Demo",
+    "description": "This account is for ForYou Demo purposes.",
+    "thumbnail": "",
+    "banner": "foryou-banner",
+    "meta": {
+        "id": "fy-demo-acc-1",
+        "publishedAt": "2016-01-15T21:34:29Z",
+        "country": "PH",
+        "status": {
+            "privacyStatus": "public",
+            "longUploadsStatus": "eligible",
+            "madeForKids": false,
+            "isLinked": true
+        }
+    },
+    "tags": {
+        "keywords": [
+            "dev","concepts","profile"
+        ],
+        "topics": [
+            "technology","knowledge","entertainment"
+        ]
+    },
+    "statistics": {
+        "subscribers": 1590,
+        "views": 100000000000000,
+        "likes": 1000000,
+        "playlists": 99,
+        "videos": 100,
+        "lastUpload": "2022-08-18T13:39:29Z"
+    },
+    "uploads": {
+        "totalResults": 100,
+        "etag": "",
+        "nextPageToken": "",
+        "items": []
+    },
+    "likes": {
+        "totalResults": 10,
+        "etag": "",
+        "nextPageToken": "",
+        "items": [
+            {
+                "id": "fy-demo-acc-1-likes-id-1",
+                "title": "YouTube",
+                "thumbnail": "https://i.ytimg.com/vi/Y7dpJ0oseIA/hqdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "Y7dpJ0oseIA"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-2",
+                "title": "Introducing the shorter side of YouTube",
+                "thumbnail": "https://i.ytimg.com/vi/__NeP0RqACU/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "__NeP0RqACU"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-3",
+                "title": "YouTube Rewind 2019: For the Record | #YouTubeRewind",
+                "thumbnail": "https://i.ytimg.com/vi/2lAe1cqCOXo/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "2lAe1cqCOXo"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-4",
+                "title": "YouTube Rewind 2018: Everyone Controls Rewind | #YouTubeRewind",
+                "thumbnail": "https://i.ytimg.com/vi/YbJOTdZBX1g/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "YbJOTdZBX1g"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-5",
+                "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+                "thumbnail": "https://i.ytimg.com/vi/FlsCjmMhFmw/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "FlsCjmMhFmw"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-6",
+                "title": "YouTube Rewind: The Ultimate 2016 Challenge | #YouTubeRewind",
+                "thumbnail": "https://i.ytimg.com/vi/_GuOjXYl5ew/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "_GuOjXYl5ew"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-7",
+                "title": "YouTube Rewind: Now Watch Me 2015 | #YouTubeRewind",
+                "thumbnail": "https://i.ytimg.com/vi/KK9bwTlAvgo/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "KK9bwTlAvgo"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-8",
+                "title": "YouTube Rewind: Turn Down for 2014",
+                "thumbnail": "https://i.ytimg.com/vi/zKx2B8WCQuw/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "zKx2B8WCQuw"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-9",
+                "title": "YouTube Rewind: What Does 2013 Say?",
+                "thumbnail": "https://i.ytimg.com/vi/H7jtC8vjXw8/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "H7jtC8vjXw8"
+            },
+            {
+                "id": "fy-demo-acc-1-likes-id-10",
+                "title": "Rewind YouTube Style 2012",
+                "thumbnail": "https://i.ytimg.com/vi/iCkYw3cRwLo/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 0,
+                "videoId": "iCkYw3cRwLo"
+            }
+        ]
+    },
+    "playlist": {
+        "totalResults": 2,
+        "etag": "",
+        "nextPageToken": "",
+        "items": [
+            {
+                "id": "fy-demo-acc-1-playlist-id-1",
+                "title": "Chrome Essentials",
+                "thumbnail": "https://i.ytimg.com/vi/hQuXxOBJwSg/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 9
+            },
+            {
+                "id": "fy-demo-acc-1-playlist-id-2",
+                "title": "rewinds",
+                "thumbnail": "https://i.ytimg.com/vi/iCkYw3cRwLo/maxresdefault.jpg",
+                "ownerTitle": "ForYou Demo",
+                "itemCount": 8
+            }
+        ]
+    }
+}

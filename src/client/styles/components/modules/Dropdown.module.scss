@@ -1,0 +1,315 @@
+nav.fy-head-dd-nav {
+    padding: 0 1rem;
+
+    ul.fy-dd-nav-list {
+        max-width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: flex-end;
+
+        li.fy-dd-nav-list-item {
+            width: calc(var(--fy-dd-nav-size) * 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: end;
+
+            button.fy-dd-button {
+                --button-size: calc(var(--fy-dd-nav-size) * 0.5);
+                width: var(--button-size);
+                height: var(--button-size);
+                border-radius: 50%;
+                padding: 5px;
+                margin: 2px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                transition: filter 300ms;
+                border: none;
+                background-color: var(--fy-spec-button-background-primary);
+                cursor: pointer;
+
+                svg {
+                    transform: scale(0.5);
+                    fill: var(--fy-spec-background-inverse);
+                }
+
+                &:hover {
+                    filter: brightness(0.8);
+                }
+            }
+
+            .fy-dd-menu-container {
+                position: absolute;
+                top: 55px;
+                width: 300px;
+                background-color: var(--fy-spec-background-primary);
+                border-radius: var(--fy-border-radius);
+                padding: 1rem;
+                overflow: hidden;
+                transition: height var(--fy-speed) ease;
+                box-shadow: -7px 7px 5px 0px rgba(0,0,0,0.18);
+
+                .fy-dd-menu-primary-enter {
+                    position: absolute;
+                    transform: translateX(-110%);
+                }
+                .fy-dd-menu-primary-enter-active {
+                    transform: translateX(0%);
+                    transition: all var(--fy-speed) ease;
+                }
+                .fy-dd-menu-primary-exit {
+                    position: absolute;
+                }
+                .fy-dd-menu-primary-exit-active {
+                    transform: translateX(-110%);
+                    transition: all var(--fy-speed) ease;
+                }
+                .fy-dd-menu-secondary-enter {
+                    transform: translateX(110%);
+                }
+                .fy-dd-menu-secondary-enter-active {
+                    transform: translateX(0%);
+                    transition: all var(--fy-speed) ease;
+                }
+                .fy-dd-menu-secondary-exit-active {
+                    transform: translateX(110%);
+                    transition: all var(--fy-speed) ease;
+                }
+
+                .fy-dd-menu {
+                    width: 100%;
+
+                    .fy-dd-menu-item {
+                        height: 50px;
+                        display: flex;
+                        align-items: center;
+                        border-radius: var(--fy-border-radius);
+                        transition: background var(--fy-speed);
+                        padding: 0.5rem;
+                        cursor: pointer;
+                        
+                        &--back {
+                            height: 50px;
+                            display: flex;
+                            align-items: center;
+                            border-radius: var(--fy-border-radius);
+                            transition: background var(--fy-speed);
+                            padding: 0.5rem;
+                            cursor: context-menu;
+
+                            .fy-icon-button {
+                                --button-size: calc(var(--fy-dd-nav-size) * 0.5);
+                                width: var(--button-size);
+                                height: var(--button-size);
+                                border-radius: 50%;
+                                padding: 5px;
+                                margin: 8px 12px 8px 0;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                transition: filter 300ms;
+                                cursor: pointer;
+
+                                svg {
+                                    fill: var(--fy-spec-background-inverse);
+                                }
+                                
+                                .fy-icon-button-thumbnail--left {
+                                    width: 100%;
+                                    height: 100%;
+                                    border-radius: 50%;
+                                }
+                
+                                &:hover {
+                                    background: var(--fy-spec-background-hover-primary);
+                                }
+                            }
+
+                            .fy-icon-right {
+                                margin-left: auto;
+                            }
+    
+                            &:hover {
+                                background-color: unset;
+                            }
+
+                            .fy-dd-menu-item-option--back {
+                                font-size: 18px;
+                                font-weight: 700;
+                                line-height: 28px;
+                            }
+    
+                            button.foryou__signout {
+                                border: none;
+                                height: 2rem;
+                                color: white;
+                                border-radius: 10px;
+                                margin-left: auto;
+                                align-self: center;
+                                background: transparent;
+                                cursor: pointer;
+                            
+                                svg {
+                                    height: 1rem;
+                                    width: 1rem;
+                                    fill: red;
+                                    transform: scale(0.8);
+                                }
+                            }
+                        }
+    
+                        &:hover {
+                            background-color: var(--fy-spec-button-background-primary);
+                        }
+    
+                        .fy-icon-right {
+                            margin-left: auto;
+                        }
+
+                        .fy-icon-button {
+                            --button-size: calc(var(--fy-dd-nav-size) * 0.5);
+                            width: var(--button-size);
+                            height: var(--button-size);
+                            background-color: var(--fy-spec-button-background-primary);
+                            border-radius: 50%;
+                            padding: 5px;
+                            margin: 8px 12px 8px 0;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            transition: filter 300ms;
+                            cursor: pointer;
+
+                            .fy-icon-button-thumbnail--left {
+                                width: 100%;
+                                height: 100%;
+                                border-radius: 50%;
+                            }
+
+                            svg {
+                                fill: var(--fy-spec-background-inverse);
+                            }
+            
+                            &:hover {
+                                filter: brightness(1.2);
+                            }
+                        }
+
+                        .fy-dd-menu-item-option {
+                            font-size: 15px;
+                            font-weight: 500;
+                        }
+
+                        button.foryou__signout {
+                            border: none;
+                            height: 2rem;
+                            color: white;
+                            border-radius: 10px;
+                            margin-left: auto;
+                            align-self: center;
+                            background: transparent;
+                            cursor: pointer;
+                        
+                            svg {
+                                height: 1rem;
+                                width: 1rem;
+                                fill: red;
+                                transform: scale(0.8);
+                            }
+                        }
+                    }
+
+                    .fy-dd-menu-multipart-item {
+                        display: flex;
+                        flex-flow: column nowrap;
+                        cursor: context-menu;
+
+                        .fy-dd-menu-multipart-item__head {
+                            display: flex;
+                            flex-flow: row nowrap;
+                            align-items: center;
+                            border-radius: var(--fy-border-radius);
+                            padding: 0.5rem;
+
+                            .fy-icon-button {
+                                --button-size: calc(var(--fy-dd-nav-size) * 0.5);
+                                width: var(--button-size);
+                                height: var(--button-size);
+                                background-color: var(--fy-spec-button-background-primary);
+                                border-radius: 50%;
+                                padding: 5px;
+                                margin: 8px 12px 8px 0;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                transition: filter 300ms;
+
+                                svg {
+                                    fill: var(--fy-spec-background-inverse);
+                                }
+                                
+                            }
+
+                            .fy-dd-menu-multipart-item__head-context {
+                                display: flex;
+                                flex-flow: column nowrap;
+                                flex: 1;
+                                align-items: start;
+                                text-align: left;
+                                
+                                .fy-dd-menu-multipart-item__head-context-heading {
+                                    font-size: 15px;
+                                    font-weight: 600;
+                                }
+                                .fy-dd-menu-multipart-item__head-context-subheading {
+                                    font-size: 13px;
+                                    font-weight: 500;
+                                }
+                            }
+                        }
+                        .fy-dd-menu-multipart-item__body {
+                            display: flex;
+                            flex-flow: column nowrap;
+                            align-items: start;
+                            padding: 0 0.5rem;
+                            
+                            .fy-dd-menu-multipart-item__body-option {
+                                --button-size: calc(var(--fy-dd-nav-size) * 0.5);
+                                --left-space: calc(var(--button-size) + 12px);
+                                display: flex;
+                                flex-flow: row nowrap;
+                                padding: 8px;
+                                margin-left: calc(var(--left-space) - 8px);
+                                align-items: center;
+                                justify-content: space-between;
+                                width: calc(100% - var(--left-space) + 8px);
+                                border-radius: var(--fy-border-radius);
+                                transition: background var(--fy-speed);
+                                cursor: pointer;
+                                
+                                &:hover {
+                                    background-color: var(--fy-spec-button-background-primary);
+                                }
+                                
+                                label {
+                                    width: 100%;
+                                    display: flex;
+                                    cursor: pointer;
+                                    .fy-dd-menu-multipart-item__body-option-label-context {
+                                        font-size: 13px;
+                                        font-weight: 500;
+                                    }
+                                }
+
+                                input[type=radio] {
+                                    cursor: pointer;
+                                }
+
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

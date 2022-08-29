@@ -1,0 +1,8 @@
+node_modules
+dist
+.eslintrc.js
+*.config.ts
+src/resources
+build.ts
+config/webpack.*.js
+tests
